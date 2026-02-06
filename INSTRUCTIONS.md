@@ -148,12 +148,12 @@ This made it hard to find tests for specific functions.
 When everything is installed correctly, you should see:
 
 ```
-Ran 67 tests in X.XXXs
+Ran 36 tests in X.XXXs
 
 OK
 ```
 
-All 67 tests should pass. If some are skipped, that's okay - they're marked with `@unittest.skipUnless` and will skip if dependencies aren't available.
+All 36 tests should pass. If some are skipped, that's okay - they're marked with `@unittest.skipUnless` and will skip if dependencies aren't available.
 
 ---
 
